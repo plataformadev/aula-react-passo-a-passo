@@ -1,0 +1,42 @@
+{
+    "contacts": [
+        {
+            "id": 1,
+            "name": "João da Silva",
+            "phone": "4733221100",
+            "email": "joao@test.com",
+            "type": "Família"
+        },
+        {
+            "id": 2,
+            "name": "Ana Beatriz Silveira",
+            "phone": "479933221100",
+            "email": "biasilveira@test.com",
+            "type": "Trabalho"
+        },
+        {
+            "id": 3,
+            "name": "Pedro Oliveira",
+            "phone": "47988221100",
+            "email": "pedrooliveira@test.com",
+            "type": "Amigo"
+        },
+       
+        {
+            "id":4,
+            "name": "Maria",
+            "email": "maria@teste.com",
+            "phone": "47988556699",
+            "type": "Amigo"
+            
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "email": "user@test.com",
+            "password": "123456",
+            "name": "Usuário Demonstração"
+        }
+    ]
+}
